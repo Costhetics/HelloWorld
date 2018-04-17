@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails HelloWorld: development" uuid="b0ad54a7-0261-4ab8-9bcf-92a361bd759d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:esiid_lookup_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails HelloWorld: test" uuid="f3bc8121-de89-4e0e-a2a9-1f4fd49bc290">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:HelloWorld_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails HelloWorld: production" uuid="48e19b70-8372-4ee4-910d-d4c5888aab32">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:HelloWorld_production</jdbc-url>
+    </data-source>
+  </component>
+</project>
